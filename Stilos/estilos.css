@@ -1,0 +1,98 @@
+@charset "utf-8";
+/* CSS Document */
+
+*{
+	border:10;
+	margin:10;
+	padding:0;
+	}
+
+body{
+	background:#FFC;
+}
+
+#contenedor{
+	background:#FFF;
+	height:760px;
+	width:780px;
+	margin-right:auto;
+	margin-left:auto;
+	border-radius:10px;
+	
+}
+header, #banner, #menu, #hv, #aside{
+	background:;
+	width:780px;
+	height:110px;
+	border-radius:10px;
+	
+	
+	}
+	#banner{
+	
+	background:#FC3;	
+	height:	190px;
+	border-radius:10px;
+	
+	}
+	
+	#hv{
+	
+	background:#FFF;	
+	height:580px;
+	width:760px;
+	padding-left:10px;
+	padding-right:10px;
+	padding-top:px;
+	text-align:center;
+	border-radius:10px;	}
+	
+#hv #hv1 {
+	background: #0284CA;
+	width:465px;
+	height:169px;
+	border-radius:10px;
+	}
+	
+	
+#hv #hv2 {
+	background: #0269B5;
+	width:465px;
+	height:169px;
+	border-radius:10px;}
+
+#hv #hv3 {
+	background: #003D59;
+	width:465px;
+	height:169px;
+	border-radius:10px;
+}
+
+#aside{
+	width:295px;
+	height:550px;
+	background:#28C4FF;
+	float:right;
+	margin-top:-590px;
+	border-radius:10px;}
+
+footer{
+	
+	width:780px;
+	height:40px;
+	background:#F93;
+	float:left;
+	margin-top:-35px;
+	border-radius:10px;}
+	
+#contenedor footer p {
+	font-family: "Times New Roman", Times, serif;
+	font-size: 16px;
+	font-style: oblique;
+	color: #383838;}
+	
+	
+#contenedor #banner #nombre {
+	font-family: Arial, Helvetica, sans-serif;
+	background-color: #FF9933;
+}
